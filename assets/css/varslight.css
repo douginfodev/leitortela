@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+
+    --primary:   #336633;
+    --primary-container: #b8f397;
+    --secondary: #55624c;
+    --secondary-container: #d9e7cb;
+    --terciary:  #386666;
+    --terciary-container: #bbebec;
+    
+
+    --container-color: #dfd5ec;
+    --primary-color: white;
+    --secondary-color: black;
+
+    --background-color: #e6e0e9;
+
+    /* Layout */
+    --padding-default: 5px;
+    --border-radius: 10px;
+    --margin-default: 10px;
+
+    /* COLORS */
+    --font-color: black;
+    --font-headline-color: black;
+    --button-font-color: white;
+    --button-color: var(--primary);
+    --button-color-sec: var(--secondary);
+    --box-shadown: 4px 4px rgba(128, 128, 128, 0.2), 1px 1px rgba(128, 128, 128, 0.2) inset;
+
+    /* FONTS */
+    /* DISPLAY */
+    --font-display-lg-size: 4.74rem;
+    /* 75.81px;  */
+    --font-display-lg-weight: 400;
+    --font-display-lg-letter-spacing: -0.02rem;
+    /* -0.33px */
+    --font-display-lg-line-height: 5.32rem;
+    /* 85.12px */
+
+    /* HEADLINE */
+    --font-headline-lg-size: 2.66rem;     /* 42.56px;  */
+    --font-headline-lg-weight: 400;
+    --font-headline-lg-letter-spacing: 0;
+    --font-headline-lg-line-height: 3.33rem; /* 53.2px */
+
+    --font-family-roboto: 'Roboto', sans-serif;
+
+    /* LABELS */
+    --button-text-weight: 400;
+    --button-text-weight-prominent: 700;
+    --button-font-size: 1.16rem;
+    --button-font-letter-spacing: 0.008rem;
+    --button-font-line-height: 1.66rem;
+
+    /* BODY FONTS */
+    --font-weight: 400;
+    --font-weight-prominent: 700;
+    --font-size: 2.2rem;
+    --font-letter-spacing: 0.099rem;
+    --font-line-height: 2.0rem;
+
+    font-size: 62.5%;
+    font-family: var(--font-family-roboto);
+    
+ }
