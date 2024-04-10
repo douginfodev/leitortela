@@ -1,6 +1,13 @@
 # PROJETO TESTE DE LEITOR DE LAYOUT
 Este projeto faz parte de um estudo pessoal para facilitar, o entendimento de pessoas cegas o com problemas visuais, a poderem desenvolver os projetos práticos do Programa One. Esta é uma tentativa de reecriar o layout para facilitar a leitura dos leitores de telas.
 
+<div>
+  <img src="assets/img/leitortela.jpg" alt="Layout para ser utilizado no leitor de tela">
+</div>
+
+##SOBRE O LAYOUT
+Quebrei o layout para facilitar a navegação via teclado, bem como, para que o leitor de tela já conseguisse ler tudo em sequencia para facilitar o entendimento do layout. Com isto, creio que facilitaria para as pessoas com deficiência visual, que participam do programa, pudessem entender e desenvolver o projeto.
+
 # NAVEGAÇÃO VIA TECLADO:
 - Setas para cima e para baixo.
 - Tecla TAB
@@ -10,9 +17,6 @@ Versao Desktop:
 NVDA - download free no site: <https://www.nvaccess.org/download/>
 O Google Chrome possui várias extensões de leitura de telas. Pesquisem na parte de extensões por leitores de tela.
 Como nunca usei, não tenho como indicar alguma extensão.
-<div>
-  <img src="assets/img/leitortela.jpg" alt="Layout para ser utilizado no leitor de tela">
-</div>
 
 # OBSERVAÇÃO
 Este projeto foi uma ideia inicial que tive para tentar solucionar um problema de imediato.
