@@ -1,5 +1,5 @@
 # PROJETO TESTE DE LEITOR DE LAYOUT
-Projeto de teste de leitura de tela de layouts de site.
+Este projeto faz parte de um estudo pessoal para facilitar, o entendimento de pessoas cegas o com problemas visuais, a poderem desenvolver os projetos práticos do Programa One. Esta é uma tentativa de reecriar o layout para facilitar a leitura dos leitores de telas.
 
 # NAVEGAÇÃO VIA TECLADO:
 - Setas para cima e para baixo.
