@@ -6,7 +6,8 @@ Este projeto faz parte de um estudo pessoal para facilitar, o entendimento de pe
 </div>
 
 ## SOBRE O LAYOUT:
-Quebrei o layout para facilitar a navegação via teclado, bem como, para que o leitor de tela já conseguisse ler tudo em sequencia para facilitar o entendimento do layout. Com isto, creio que facilitaria para as pessoas com deficiência visual, que participam do programa, pudessem entender e desenvolver o projeto.
+Redefinio layout para que a navegação via teclado, bem como, o leitor de tela já conseguisse ler tudo em sequencia para facilitar o entendimento do layout. 
+Com isto, tentei facilitar para as pessoas com deficiência visual,(que participam do programa), pudessem entender(escutar) como desenvolver o projeto.
 
 # NAVEGAÇÃO VIA TECLADO:
 - Setas para cima e para baixo.
