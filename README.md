@@ -5,7 +5,7 @@ Este projeto faz parte de um estudo pessoal para facilitar, o entendimento de pe
   <img src="assets/img/leitortela.jpg" alt="Layout para ser utilizado no leitor de tela">
 </div>
 
-##SOBRE O LAYOUT
+## SOBRE O LAYOUT:
 Quebrei o layout para facilitar a navegação via teclado, bem como, para que o leitor de tela já conseguisse ler tudo em sequencia para facilitar o entendimento do layout. Com isto, creio que facilitaria para as pessoas com deficiência visual, que participam do programa, pudessem entender e desenvolver o projeto.
 
 # NAVEGAÇÃO VIA TECLADO:
