@@ -10,6 +10,9 @@ Versao Desktop:
 NVDA - download free no site: <https://www.nvaccess.org/download/>
 O Google Chrome possui várias extensões de leitura de telas. Pesquisem na parte de extensões por leitores de tela.
 Como nunca usei, não tenho como indicar alguma extensão.
+<div>
+  <img src="./assets/image/leitortela.jpg" alt="Layout para ser utilizado no leitor de tela">
+</div>
 
 # OBSERVAÇÃO
 Este projeto foi uma ideia inicial que tive para tentar solucionar um problema de imediato.
